@@ -45,6 +45,7 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 ## 📊 GitHub Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/organpy?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com?user=organpy&theme=dark)](https://git.io/streak-stats)
 
 ---
 
