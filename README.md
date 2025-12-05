@@ -44,12 +44,10 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/organpy?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
-[![](https://visitcount.itsvg.in/api?id=organpy&icon=5&color=3)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=organpy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://awesome-github-stats.azurewebsites.net/user-stats/organpy?cardType=level&theme=dark&preferLogin=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=organpy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=organpy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-profile-trophy.vercel.app/?username=organpy&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br/>
 
 ---
 
