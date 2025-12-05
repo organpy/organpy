@@ -31,7 +31,7 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 ## 📊 GitHub Stats
 
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/organpy?cardType=level&theme=dark&preferLogin=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=organpy&theme=dark&card_width=400&card_height=200&currStreakLabel=018749&fire=018749&ring=018749)<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=organpy&theme=dark&card_width=390&card_height=200&currStreakLabel=018749&fire=018749&ring=018749)<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=organpy&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)<br/>
 
