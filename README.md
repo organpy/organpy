@@ -20,7 +20,7 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Techs I Use
 
 <div style="margin:0; padding:0;" align="center">
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="40"></a>
@@ -37,7 +37,7 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="40"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="40"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="40"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="40"></a>
+<a href="#"><img src="https://github.com/organpy/organpy/blob/main/firestore-dark.svg" width="40"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/superbase-dark.svg" width="40"></a>
 </div><br/>
 <div style="margin:0; padding:0;" align="center">
@@ -47,6 +47,10 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="40"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-dark.svg" width="40"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="40"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="42"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/f/fb/20251029195728!Adobe_Illustrator_CC_icon.svg" width="42"></a>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Prism_Launcher_logo.svg" width="40"></a>
+<a href="#"><img src="https://github.com/organpy/organpy/blob/main/bobble-league.svg" width="40"></a>
 </div>
 
 ---
