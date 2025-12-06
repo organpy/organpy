@@ -22,11 +22,35 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 
 ## 🧰 Tech Stack
 
-- **Languages:** Python
-- **Tools:** Git, GitHub, Google Colab and anything Python-friendly
-- **Domains:** Automation • Discord Bots • Light Computer Vision • Scripting
+<div style="margin:0; padding:0;" align="center">
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/css.svg" width="40"></a>
+</div>
+<div style="margin:0; padding:0;" align="center">
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/django.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flask-light.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/fastapi.svg" width="40"></a>
+</div>
+<div style="margin:0; padding:0;" align="center">
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/superbase-dark.svg" width="40"></a>
+</div><br/>
+<div style="margin:0; padding:0;" align="center">
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons%232/replit-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/markdown-dark.svg" width="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="40"></a>
+</div>
 
 ---
+
 
 ## 📊 GitHub Stats
 
