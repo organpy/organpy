@@ -69,7 +69,7 @@ A lot of my code is private, but I try to keep my profile organized and clean.
 
 * More advanced Python patterns
 * Low-level programming (pointers, memory, compilation)
-* The Classic DSA
+* C++
 
 ---
 
